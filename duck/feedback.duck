@@ -1,0 +1,12 @@
+@ducktype/1.0
+@include version.inc
+
+= Feedback
+  [guide #feedback]
+@link[guide >index group=feedback]
+
+@revision[version="0.1" date="2019-10-12" status="draft"]
+
+This section contains information on reporting bugs in MATE, making suggestions and comments about MATE applications or documentation, and ways in which you can help MATE.
+
+[links topic groups="feedback-bugs feedback-wishlist feedback-docs joinmate"]

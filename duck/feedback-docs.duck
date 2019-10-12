@@ -1,0 +1,24 @@
+@ducktype/1.0
+@include version.inc
+
+= Documentation Comments
+  [guide #feedback-docs]
+
+@link[guide >feedback group=feedback-docs]
+
+@revision[pkgversion="0.1" date="2019-10-12" status="draft"]
+
+If you found an inaccuracy or misprint in one of MATE
+documents, or have any comments or suggestions about
+documentation, please let us know! The easiest way of doing so
+is by submitting a bug report as explained before and
+selecting $gui[style=guilabel](Component: docs) at appropriate
+steps (or $gui[style=guilabel](general) if there is no
+$gui[style=guilabel](docs) component). If your comment is about
+general MATE documentation (such as $em[style=citetitle](MATE Users
+Guide)) rather than specific application manual,
+select $gui[style=guilabel](Product: mate-user-docs).
+
+Alternatively, you can just send your comments by email to the
+$link[>>http://ml.mate-desktop.org/listinfo](MATE
+Documentation Project) mailing list.

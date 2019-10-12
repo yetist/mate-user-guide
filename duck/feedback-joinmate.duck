@@ -1,0 +1,14 @@
+@ducktype/1.0
+@include version.inc
+
+= Joining the MATE Project
+  [guide #joinmate]
+
+@link[guide >feedback group=joinmate]
+
+@revision[pkgversion="0.1" date="2019-10-12" status="draft"]
+
+We hope you enjoy using MATE and that you find working with MATE productive. However, there is always room for improvement.
+MATE invites you to join our free software community if you have some spare time. There are many different fields. MATE needs programmers, but it also needs translators, documentation writers, testers, artists, writers, and more.
+For more information on joining MATE, please visit $link[>>http://live.gnome.org/JoinMate](http://live.gnome.org/JoinMate).
+For more information on giving feedback on MATE, such as bug reports, suggestions, and corrections to documentation, see.

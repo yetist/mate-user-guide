@@ -1,0 +1,77 @@
+@ducktype/1.0
+@include version.inc
+
+= Desktop User Guide
+  [guide #index]
+
+@revision[version="0.1" date="2019-10-12" status="stub"]
+
+@credit[copyright]
+  @name MATE Documentation Project
+  @years
+
+@credit[copyright]
+  @name Shaun McCance
+  @years
+
+@credit[copyright]
+  @name Sun Microsystems
+  @years
+
+@credit[publisher]
+  @name MATE Documentation Project
+
+@credit[author]
+  @name MATE Documentation Team
+
+@credit[author]
+  @name Wolfgang Ulbrich
+
+@credit[author]
+  @name Sun GNOME Documentation Team
+
+@credit[author]
+  @name Shaun McCance
+  @email shaunm@gnome.org
+
+@credit[author]
+  @name Karderio
+  @email karderio at gmail dot com
+
+@credit[author]
+  @name Joachim Noreiko
+  @email jnoreiko at yahoo dot com
+
+@credit[author]
+  @name Daniel Espinosa Ortiz
+  @email esodan at gmail dot com
+
+@credit[author]
+  @name Brent Smith
+  @email mate at nextreality dot net
+
+@credit[author]
+  @name Tim Littlemore
+  @email tim at tjl2 dot com
+
+@credit[author]
+  @name John Stowers
+  @email john dot stowers at gmail dot com
+
+@credit[author]
+  @name Nigel Tao
+  @email nigel dot tao at myrealbox dot com
+
+@credit[author]
+  @name Matthew East
+  @email mdke at ubuntu dot com
+
+@credit[author]
+  @name Carlos Garnacho Parro
+  @email carlosg@gnome.org
+
+[links topic groups=gs]
+
+[links topic groups="intro #first"]
+
+[links topic style="toronto" groups="basic overview sessions panel menu caja tools custdesk dconf glossary feedback"]

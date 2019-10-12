@@ -1,0 +1,13 @@
+@ducktype/1.0
+
+= Basic Skills
+  [guide #basic-skills]
+@link[guide >index group=basic]
+
+@desc
+  $link[>mouse-skills]
+  $link[>keyboard-skills]
+
+This chapter introduces you to the basic skills that you need to work with the MATE Desktop.
+
+[links topic groups="mouse-skills keyboard-skills"]

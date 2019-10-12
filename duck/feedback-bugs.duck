@@ -1,0 +1,31 @@
+@ducktype/1.0
+@include version.inc
+
+= Reporting Bugs
+  [guide #feedback-bugs]
+
+@link[guide >feedback group=feedback-bugs]
+
+@revision[pkgversion="0.1" date="2019-10-12" status="draft"]
+
+If you have found a bug in a MATE application, please
+report it! Developers do read all the bug reports and try to fix
+these bugs. Please try to be as specific as possible when
+describing the circumstances under which the bug shows (What
+commands did you enter? Which buttons did you click?). If there were any
+error messages, be sure to include them, too.
+
+The easiest way to report bugs is by using $app(Bug Buddy), MATE's built-in bug reporting tool. This will launch automatically in the event that an application crashes. The details MATE developers need are automatically collected, but you can further help by giving information about what you were doing when the crash took place.
+
+You can also submit bugs and browse the list of known bugs by
+connecting to the $link[>>https://github.com/mate-desktop/](MATE bug tracking
+database).  You will need to register before you can
+submit any bugs this way.
+
+Please note that some of MATE applications are developed outside of MATE, or by
+commercial companies (these products are still free
+software). For example, $app(blueman), a
+bluetooth application, is developed at $link[>>https://github.com/blueman-project/blueman/](GitHub). Bug reports and
+comments about these products should be directed to the
+respective organization or company. If you are using $app(Bug Buddy),
+it will automatically send bug reports to the correct database.

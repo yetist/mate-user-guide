@@ -1,0 +1,40 @@
+@ducktype/1.0
+
+= Keyboard Skills
+  [guide #keyboard-skills]
+@link[guide >basic-skills group=keyboard-skills]
+
+@desc
+  @title[link]Keyboard
+  @title[text]Keyboard Skills
+
+
+For almost every task that you can perform with the mouse, you can use
+the keyboard to perform the same task.  <firstterm>Shortcut keys</firstterm>
+are keys that provide you with a quick way to perform a task.</para>
+
+<para>You can use shortcut keys to perform general MATE Desktop tasks and
+to work with interface items such as panels and windows. You can also use
+shortcut keys in applications. To customize your shortcut keys, use the
+<application>Keyboard Shortcuts</application> preference tool.  See
+<xref linkend="prefs-keyboard-shortcuts"/> for more information about
+configuring keyboard shortcuts.
+
+[note]
+  Many PC keyboards come with two special keys for the Windows operating system: a key with a Microsoft Windows™ logo and a key for accessing context menus.
+
+  In MATE, the Windows key is often configured to
+  act as an additional modifier key, called the <firstterm>Super key</firstterm>.
+  The context menu key can be used to access the context menu of the selected
+  item, just as the <keycombo><keycap>Shift</keycap><keycap>F10</keycap></keycombo>
+  keyboard shortcut can.
+
+You can also modify the MATE Desktop preferences to use keyboard
+accessibility features.  See <xref linkend="prefs-keyboard-a11y"/> for
+more information about the keyboard accessibility features.
+
+The following sections describe the shortcut keys that you can use
+throughout the desktop and applications.
+
+[links topic groups="mouse-conventions mouse-actions mouse-pointers"]
+

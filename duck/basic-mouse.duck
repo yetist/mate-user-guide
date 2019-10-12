@@ -1,0 +1,16 @@
+@ducktype/1.0
+
+= Mouse Skills
+  [guide #mouse-skills]
+@link[guide >basic-skills group=mouse-skills]
+
+@desc
+  @title[link]Mouse
+  @title[text]Mouse Skills
+
+
+This section describes what the mouse buttons do, and what the different pointers mean.
+
+A mouse is a pointing device that lets you move the mouse pointer on the screen. The mouse pointer is usually a small arrow with which you point to objects on your screen. Pressing a mouse button will perform a particular action on the object over which your mouse pointer is situated, depending on which button you press.
+
+[links topic groups="mouse-conventions mouse-actions mouse-pointers"]

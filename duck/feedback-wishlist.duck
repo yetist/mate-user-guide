@@ -1,0 +1,15 @@
+@ducktype/1.0
+@include version.inc
+
+= Suggestions and Comments
+  [guide #feedback-wishlist]
+
+@link[guide >feedback group=feedback-wishlist]
+
+@revision[pkgversion="0.1" date="2019-10-12" status="draft"]
+
+If you have a suggestion or want to request a new feature for
+one of the applications, it can also be done using the bug
+tracking database. Submit your suggestion as a bug report as
+described in  and at the appropriate
+step select $gui[style=guilabel](Severity: Enhancement).
